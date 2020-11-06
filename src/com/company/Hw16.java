@@ -1,6 +1,6 @@
 package com.company;
 
-public class hw16 {
+public class Hw16 {
     public static void main(String[] args) {
         double radius, perimeter, area;
 

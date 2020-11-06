@@ -1,6 +1,6 @@
 package com.company;
 
-public class hw12 {
+public class Hw12 {
     public static void main(String[] args) {
         int quotient;
         quotient = 50 / 5;

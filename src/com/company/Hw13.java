@@ -1,6 +1,6 @@
 package com.company;
 
-public class hw13 {
+public class Hw13 {
     public static void main(String[] args) {
         int a, b, c, d;
 

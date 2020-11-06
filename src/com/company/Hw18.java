@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw18 {
+public class Hw18 {
     public static void main(String[] args) {
         double inches, meters;
 

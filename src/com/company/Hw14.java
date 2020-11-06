@@ -3,7 +3,7 @@ package com.company;
 import java.util.Scanner;
 
 
-public class hw14 {
+public class Hw14 {
     public static void main(String[] args) {
         int a, b, product;
         Scanner userInput = new Scanner(System.in);

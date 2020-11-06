@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class hw17 {
+public class Hw17 {
     public static void main(String[] args) {
         double fahrenheit, celsius;
         Scanner temperature = new Scanner(System.in);
